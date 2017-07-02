@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "First Day Live!"
-date:   2017-07-2 13:46:40
+date:   2017-07-1 13:46:40
 categories: jekyll update
 ---
 
