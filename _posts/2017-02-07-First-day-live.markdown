@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Tomorrow!"
+title:  "First Day Live!"
 date:   2017-07-2 13:46:40
 categories: jekyll update
 ---
