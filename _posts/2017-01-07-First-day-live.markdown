@@ -6,8 +6,7 @@ categories: jekyll update
 ---
 
 Saturday, July the 2nd was the first day of this website. Didn't give a shite about anything and got ranked platinium at 2700
-despite what I was expecting. Also I went out for a drink with my aunt,
-uncle and their Italian cousin. Was nice and had a few drinks. 
+despite what I was expecting.
 Quiet a good day after all.
 
 [jekyll]:      http://jekyllrb.com
