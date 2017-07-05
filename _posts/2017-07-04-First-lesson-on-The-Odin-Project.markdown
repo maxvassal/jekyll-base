@@ -14,7 +14,7 @@ Going through the fondamentals of the Web and of the [The Odin Project](https://
 **TL:DR** : This post will also suffer my multiple experimentations with the Markdown markup language. Sorry if that hurts your eyes. 
 
 1. *Describe what the internet is*:
- *  The Internet is the backbone of the Web, the technical infrastructure that makes the Web possible. At its most basic, the Internet is a large network of computers which communicate all together.
+   The Internet is the backbone of the Web, the technical infrastructure that makes the Web possible. At its most basic, the Internet is a large network of computers which communicate all together.
 
 2. > *Describe what packets are and how they are used to transfer data*
 
