@@ -13,20 +13,20 @@ Going through the fondamentals of the Web and of the [The Odin Project](https://
 
 **TL:DR**
 
-1. *Describe what the internet is*: 
-The Internet is the backbone of the Web, the technical infrastructure that makes the Web possible. At its most basic, the Internet is a large network of computers which communicate all together.
+1. > *Describe what the internet is*: 
+>> The Internet is the backbone of the Web, the technical infrastructure that makes the Web possible. At its most basic, the Internet is a large network of computers which communicate all together.
 
-2. *Describe what packets are and how they are used to transfer data*
+2. > *Describe what packets are and how they are used to transfer data*
 
-3. *Understand the differences between a webpage, web server, web browser and search engine*
+3. > *Understand the differences between a webpage, web server, web browser and search engine*
 
-4. *Briefly explain what a client is*
+4. > *Briefly explain what a client is*
 
-5. *Briefly explain what a server is*
+5. > *Briefly explain what a server is*
 
-6. *Explain what DNS servers are*
+6. > *Explain what DNS servers are*
 
-7. *Explain, in your own words, what happens when you click search on google.com to a friend!*
+7. > *Explain, in your own words, what happens when you click search on google.com to a friend!*
 
 
 [jekyll]:      http://jekyllrb.com
