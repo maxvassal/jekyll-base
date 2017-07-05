@@ -6,7 +6,7 @@ categories: jekyll update
 ---
 
 Here you will not find a thing as it will happen tomorrow.
-See you later ! :)
+See you later ! 
 
 [jekyll]:      http://jekyllrb.com
 [jekyll-gh]:   https://github.com/jekyll/jekyll
