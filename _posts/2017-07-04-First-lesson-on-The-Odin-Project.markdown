@@ -11,9 +11,10 @@ Going through the fondamentals of the Web and of the [The Odin Project](https://
 [Dev Mozilla Network](https://developer.mozilla.org/en-US/docs/Learn/Common_questions) is pretty worth the look.
 
 
-**TL:DR**
+**TL:DR** : This post will also suffer my multiple experimentation with the Markdown language. Sorry if that hurts your eyes. 
 
-1. > *Describe what the internet is*: 
+1. > *Describe what the internet is*:
+>
 >> The Internet is the backbone of the Web, the technical infrastructure that makes the Web possible. At its most basic, the Internet is a large network of computers which communicate all together.
 
 2. > *Describe what packets are and how they are used to transfer data*
