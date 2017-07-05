@@ -7,7 +7,7 @@ categories: jekyll update
 Web dev 101 at [The Odin Project](https://www.theodinproject.com/courses/web-development-101) 
 
 Going through the fondamentals of TOP and more globaly the Web.
-Dev Mozilla Network has some quiet useful content => https://developer.mozilla.org/en-US/docs/Learn/Common_questions
+Dev Mozilla Network has some quiet useful content => [Dev Mozilla Network](https://developer.mozilla.org/en-US/docs/Learn/Common_questions)
 
 
 TL:DR
