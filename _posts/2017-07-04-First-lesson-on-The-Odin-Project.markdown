@@ -4,27 +4,28 @@ title:  "First Lesson on The Odin Project !"
 date:   2017-07-4 13:46:40
 categories: jekyll update
 ---
-Web dev 101 at [The Odin Project](https://www.theodinproject.com/courses/web-development-101) 
-
-Going through the fondamentals of TOP and more globaly the Web.
-Dev Mozilla Network has some quiet useful content => [Dev Mozilla Network](https://developer.mozilla.org/en-US/docs/Learn/Common_questions)
 
 
-TL:DR
+Going through the fondamentals of the Web and of the [The Odin Project](https://www.theodinproject.com/courses/web-development-101) (Web dev 101).
 
-Describe what the internet is: The Internet is the backbone of the Web, the technical infrastructure that makes the Web possible. At its most basic, the Internet is a large network of computers which communicate all together.
+[Dev Mozilla Network](https://developer.mozilla.org/en-US/docs/Learn/Common_questions) is pretty worth the look.
 
-Describe what packets are and how they are used to transfer data
 
-Understand the differences between a webpage, web server, web browser and search engine
+**TL:DR**
+#*Describe what the internet is*: 
+## The Internet is the backbone of the Web, the technical infrastructure that makes the Web possible. At its most basic, the Internet is a large network of computers which communicate all together.
 
-Briefly explain what a client is
+#*Describe what packets are and how they are used to transfer data*
 
-Briefly explain what a server is
+#*Understand the differences between a webpage, web server, web browser and search engine*
 
-Explain what DNS servers are
+#*Briefly explain what a client is*
 
-Explain, in your own words, what happens when you click search on google.com to a friend!
+#*Briefly explain what a server is*
+
+#*Explain what DNS servers are*
+
+#*Explain, in your own words, what happens when you click search on google.com to a friend!*
 
 
 [jekyll]:      http://jekyllrb.com
