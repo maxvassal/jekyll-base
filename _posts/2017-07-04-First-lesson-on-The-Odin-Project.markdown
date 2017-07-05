@@ -11,7 +11,7 @@ Going through the fondamentals of the Web and of the [The Odin Project](https://
 [Dev Mozilla Network](https://developer.mozilla.org/en-US/docs/Learn/Common_questions) is pretty worth the look.
 
 
-**TL:DR** : This post will also suffer my multiple experimentation with the Markdown language. Sorry if that hurts your eyes. 
+**TL:DR** : This post will also suffer my multiple experimentations with the Markdown markup language. Sorry if that hurts your eyes. 
 
 1. * *Describe what the internet is*:
 
