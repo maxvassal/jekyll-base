@@ -6,7 +6,7 @@ categories: jekyll update
 ---
 Useful terms to know ! 
 [Viking Code School](http://www.vikingcodeschool.com/web-development-basics/terms-to-know)
-[Smashing Magazine]https://www.smashingmagazine.com/2009/05/web-design-industry-jargon-glossary-and-resources/
+[Smashing Magazine](https://www.smashingmagazine.com/2009/05/web-design-industry-jargon-glossary-and-resources/)
 
 Additional Resources
 This section contains helpful links to other content. It isn't required, so consider it supplemental for if you need to dive deeper into something
