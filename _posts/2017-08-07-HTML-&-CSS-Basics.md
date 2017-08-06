@@ -8,11 +8,11 @@ Watch & Learn
 
 HTML Beginner Tutorial:
 
-[HTML Dog Beginner](http://www.htmldog.com/guides/html/beginner/)
+[HTML Dog HTML](http://www.htmldog.com/guides/html/beginner/)
 
-[HTML Dog Beginner](http://www.htmldog.com/guides/css/beginner/)
+[HTML Dog CSS Beginner](http://www.htmldog.com/guides/css/beginner/)
 
-[HTML Dog Beginner](http://www.htmldog.com/guides/css/intermediate/)
+[HTML Dog CSS Intermediate](http://www.htmldog.com/guides/css/intermediate/)
 
 Basic Forms:
 
